@@ -1,0 +1,6 @@
+@media (min-width: 720px) {
+    .section {
+        max-width: 60vw;
+        margin: 0 auto;
+    }
+}
