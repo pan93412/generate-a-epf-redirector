@@ -13,7 +13,7 @@ function createPage(projectName, projectAddress) {
     <p>如果未重新導向，請開啟 JavaScript 或直接存取以下連結。</p>
     <p>If it is not redirected, enable JavaScript or visit the following address.</p>
     <p>${projectAddress}</p>
-    <p><small>Generated with <a href="">Generate a redirector!</a>. (C) 2021, pan93412.</small></p>
+    <p><small>Generated with <a href="https://epf-redirector.pan93.tk">Generate a (EPF) redirector!</a>. (C) 2021, pan93412.</small></p>
 
     <!-- compatible for every browsers, I thought. -->
     <script><!--
